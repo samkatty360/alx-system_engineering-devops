@@ -1,1 +1,1 @@
-my shell basics readme
+reademe file on shell permision
